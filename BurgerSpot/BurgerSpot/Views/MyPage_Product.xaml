@@ -35,11 +35,23 @@
                         <CollectionView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
-                                    <StackLayout>
                                         <Frame BackgroundColor="Black" >
+                                            <StackLayout Orientation="Vertical">
+                                                <Image
+                                                    Source="{Binding im}"
 
+                                                    />
+                                                <Label
+                                                    Text="50 DH"
+
+                                                    />
+                                                <Label
+                                                    Text="Pc protable"
+                                                    
+                                                    />
+
+                                            </StackLayout>
                                         </Frame>
-                                    </StackLayout>
                                 </ViewCell>
                             </DataTemplate>
                         </CollectionView.ItemTemplate>

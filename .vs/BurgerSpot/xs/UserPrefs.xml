@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{12CF91FE-BFCA-4BB8-92E7-3873AAF6AAC0}|Default" HasHotReloadOverlayBeenDismissed="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerSpot/BurgerSpot/Views/MyPage_panier.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerSpot/BurgerSpot/Behavior/CarouselViewParallaxBehavior.cs">
     <Files>
-      <File FileName="BurgerSpot/BurgerSpot/Views/CartPopupView.xaml" Line="21" Column="1" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/CartPopupView.xaml" Line="11" Column="32" />
       <File FileName="BurgerSpot/BurgerSpot/Services/NavigationService.cs" Line="101" Column="61" />
       <File FileName="BurgerSpot/BurgerSpot/ViewModel/PlantMallViewModel.cs" Line="70" Column="54" />
       <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_Ville.cs" Line="1" Column="1" />
       <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_ville.xaml.cs" Line="1" Column="1" />
       <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_ville.xaml" Line="6" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_Product.xaml" Line="52" Column="1" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_Product.xaml" Line="29" Column="43" />
       <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_Product.xaml.cs" Line="1" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_panier.xaml" Line="2" Column="13" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_panier.xaml" Line="2" Column="35" />
+      <File FileName="BurgerSpot/BurgerSpot/Behavior/CarouselViewParallaxBehavior.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +18,6 @@
           <Node name="BurgerSpot" expanded="True">
             <Node name="BurgerSpot" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="MyPage_panier.xaml" selected="True" />
                 <Node name="MyPage_Product.xaml" expanded="True" />
                 <Node name="MyPage_ville.xaml" expanded="True" />
               </Node>

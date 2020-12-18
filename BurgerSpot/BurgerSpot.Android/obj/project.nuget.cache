@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMJRCosFtgi2NLI4uma9sXtngW/L5SpZyinyJXsdR6Jcvx9Qv2vurESC9uJ5cOwYclAvRbPClKiy2UgFdklO2g==",
+  "dgSpecHash": "EsnZsAwF+ERzyq4T65m8wDmtrDV+iV9BOyDw/HPiRAtAo0TgoR17nJsZi+Eqkib1WJB2mKaEs9Ej7UsXviH6tQ==",
   "success": true,
-  "projectFilePath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot.Android/BurgerSpot.Android.csproj",
+  "projectFilePath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.Android/BurgerSpot.Android.csproj",
   "expectedPackageFiles": [
     "/Users/ahmidimohamed/.nuget/packages/carouselview.formsplugin/5.2.0/carouselview.formsplugin.5.2.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/com.airbnb.android.lottie/3.0.3/com.airbnb.android.lottie.3.0.3.nupkg.sha512",

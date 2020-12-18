@@ -3961,11 +3961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot.iOS/BurgerSpot.iOS.csproj",
+      "projectUniqueName": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/BurgerSpot.iOS.csproj",
       "projectName": "BurgerSpot.iOS",
-      "projectPath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot.iOS/BurgerSpot.iOS.csproj",
+      "projectPath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/BurgerSpot.iOS.csproj",
       "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-      "outputPath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot.iOS/obj/",
+      "outputPath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3980,8 +3980,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj": {
-              "projectPath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj"
+            "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/BurgerSpot.csproj": {
+              "projectPath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/BurgerSpot.csproj"
             }
           }
         }

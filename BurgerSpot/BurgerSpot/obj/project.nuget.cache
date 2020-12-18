@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIyCSnr08WpxhDLA6R/S4NUqUfqJDsddng3IWIg4XsqEShhWoDWAkH2I+IqUpkPKx2L+omQJEMz4YSgxuHc3oQ==",
+  "dgSpecHash": "Ng6BoQ+d2KPn7V9fQYCGs3/jiWm4BUH5/rMDq63sSLLgrmEuWCGdE7NbIaNft4jkvIcrkc5jTk0t5GRQfVHIPg==",
   "success": true,
-  "projectFilePath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj",
+  "projectFilePath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/BurgerSpot.csproj",
   "expectedPackageFiles": [
     "/Users/ahmidimohamed/.nuget/packages/carouselview.formsplugin/5.2.0/carouselview.formsplugin.5.2.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/com.airbnb.xamarin.forms.lottie/3.0.0/com.airbnb.xamarin.forms.lottie.3.0.0.nupkg.sha512",

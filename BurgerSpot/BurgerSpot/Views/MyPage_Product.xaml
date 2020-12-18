@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor="Red"  xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_Product">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Frame Margin="-70,0,0,0" CornerRadius="30" WidthRequest="220" HorizontalOptions="Center" HeightRequest="30" >
+<Entry
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+
+                    BackgroundColor="White"
+                    />
+                </Frame>
+                <Image
+                    HorizontalOptions="End"
+                    />
+
+            </StackLayout>
+
+          
+
+            <Frame BackgroundColor="White" VerticalOptions="FillAndExpand" CornerRadius="30" HorizontalOptions="FillAndExpand" >
+                <StackLayout>
+                      <Label
+                Text="dkdkdjdkdd"
+                          TextColor="Black"
+                          FontAttributes="Bold"
+                          FontSize="20"
+                          x:Name="txt_top"
+                          Margin="20,10,0,0"
+                />
+
+
+                    <CollectionView>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout>
+                                        <Frame BackgroundColor="Black" >
+
+                                        </Frame>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

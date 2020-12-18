@@ -1,0 +1,140 @@
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/BurgerSpot.iOS.exe
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/BurgerSpot.iOS.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/CarouselView.FormsPlugin.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/CarouselView.FormsPlugin.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Firebase.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FreshIOC.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FreshIOC.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FreshMvvm.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FreshMvvm.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/LiteDB.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Microcharts.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Microcharts.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Microcharts.Forms.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/PCLStorage.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/PCLStorage.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ButtonCircle.FormsPlugin.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ButtonCircle.FormsPlugin.Abstractions.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ButtonCircle.FormsPlugin.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.iOS.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.Views.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.Views.Forms.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.ExternalMaps.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Plugin.ExternalMaps.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamanimation.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamanimation.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamanimation.dll.mdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Transformations.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Transformations.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/BurgerSpot.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/BurgerSpot.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/bbq.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/france.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/morocco.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/add.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/bread.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/fish.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/fruit.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/vegetable.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/cart.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/chicken.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/classic.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/left.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/meat.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/right.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/search.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/shark.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/two.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/user.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csprojAssemblyReference.cache
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csproj.CoreCompileInputs.cache
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csproj.CopyComplete
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.exe
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/javier.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/jennifer.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/miguel.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/nofv.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/samantha.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/sebastian.png
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/angelica.png

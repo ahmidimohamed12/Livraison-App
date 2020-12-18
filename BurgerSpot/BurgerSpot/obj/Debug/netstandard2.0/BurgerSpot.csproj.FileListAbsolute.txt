@@ -1,0 +1,51 @@
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.deps.json
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.dll
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/ref/BurgerSpot.dll
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.pdb
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.csprojAssemblyReference.cache
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/DetailsPage.xaml.g.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/LandingPage.xaml.g.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.csproj.CoreCompileInputs.cache
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.AssemblyInfoInputs.cache
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.AssemblyInfo.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.dll
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/ref/BurgerSpot.dll
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.pdb
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_start.xaml.g.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_pasconnection.xaml.g.cs
+/Users/ahmidimohamed/Downloads/CollectionView-and-CarouselView-in-Xamarin-Forms-master 2/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_ville.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.deps.json
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/ref/BurgerSpot.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/bin/Debug/netstandard2.0/BurgerSpot.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/categories/MyTabbedPage_categories.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/Dashboard/MyPage_Duashboard.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/MyMasterDetailPage.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/MyMasterDetailPageDetail.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/MyMasterDetailPageMaster.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/MyPage_addCategories.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/SettingAdmin/MyPage_settings.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Admin/Settings/MyPage_settings.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Clients/MyPage_swipe.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/CustomNavigationPage.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/DetailsPage.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/LandingPage.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/Logins.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_Language.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_menucategories.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_pasconnection.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_start.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_ville.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/ShoppingListView.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.csproj.CoreCompileInputs.cache
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.AssemblyInfoInputs.cache
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.AssemblyInfo.cs
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/ref/BurgerSpot.dll
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.pdb
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/BurgerSpot.csprojAssemblyReference.cache
+/Users/ahmidimohamed/Desktop/Livraison-Food-App/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.0/Views/MyPage_logins.xaml.g.cs

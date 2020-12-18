@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" BackgroundColor="White" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_Language">
+    <ContentPage.Content>
+
+        <StackLayout>
+            <BoxView
+                HeightRequest="100"
+                />
+            <Label
+
+                Text="choisir votre langue"
+                FontSize="Title"
+                HorizontalOptions="Center"
+                FontAttributes="Bold"
+                TextColor="Black"
+                     />
+            <Image HorizontalOptions="Center"  WidthRequest="50" HeightRequest="50"  x:Name="imarabe" />
+             <Image HorizontalOptions="Center"  WidthRequest="50" HeightRequest="50" x:Name="imfrance" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

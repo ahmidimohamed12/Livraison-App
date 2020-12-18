@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj",
+        "projectName": "BurgerSpot",
+        "projectPath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/BurgerSpot.csproj",
+        "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
+        "outputPath": "/Users/ahmidimohamed/Downloads/Livraison-Food-App-0cf93db5486efba1de8d044fab5e48137a95171a/BurgerSpot/BurgerSpot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmidimohamed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "CarouselView.FormsPlugin": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "FreshMvvm": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.7.1, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.6.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "PCLStorage": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Plugins.Forms.ButtonCircle": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Sharpnado.Shadows": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "SkiaSharp.Views": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xam.Plugin.ExternalMaps": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Xamanimation": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.1080, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

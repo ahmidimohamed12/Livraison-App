@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_lsftcollection">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">    
+            <!-- Use your own layout and functionality here! -->    
+            <CollectionView x:Name="collectionList" Margin="10"
+                            >
+                <CollectionView.ItemTemplate>    
+                    <DataTemplate>    
+                        <Grid Padding="10" Margin="10">    
+                            <Grid.RowDefinitions>    
+                                <RowDefinition Height="Auto" />    
+                                <RowDefinition Height="Auto" />    
+                            </Grid.RowDefinitions>    
+                            <Grid.ColumnDefinitions>    
+                                <ColumnDefinition Width="Auto" />    
+                                <ColumnDefinition Width="Auto" />    
+                                <ColumnDefinition Width="Auto" />    
+                            </Grid.ColumnDefinitions>
+                            <StackLayout>
+                                <Image  />
+                                <SearchBar/>
+                                <Image/>
+                            </StackLayout>
+                            <Image/>
+                            
+                            <StackLayout BackgroundColor="White" Grid.RowSpan="2">    
+                                 <StackLayout Orientation="Vertical">
+                                  <StackLayout Orientation="Horizontal">
+                                      <Image/>
+                                      <SearchBar/>
+                                      <Image/>
+                                  </StackLayout>
+                                     <Image/>
+                                     <Frame>
+
+                                     </Frame>
+                                     <Frame>
+
+                                     </Frame>
+                                 </StackLayout>
+                            </StackLayout>    
+                          
+                        </Grid>    
+                    </DataTemplate>    
+                </CollectionView.ItemTemplate>    
+    
+            </CollectionView>    
+        </StackLayout>    
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"   xmlns:con="clr-namespace:BurgerSpot.Controls"  xmlns:custom="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:behaviors="clr-namespace:BurgerSpot.Behavior" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_menucategories" xmlns:btncir="clr-namespace:ButtonCircle.FormsPlugin.Abstractions;assembly=ButtonCircle.FormsPlugin.Abstractions"  BackgroundColor="White" >
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <ScrollView>
+                <StackLayout>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="5"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="5" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70" />
+                    <RowDefinition Height="5" />
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="5" />
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100"/> 
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="100" />
+
+                </Grid.RowDefinitions>
+                <Image
+                    Source="lg3.png"
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="3"
+                    
+                    />
+
+            <Button
+                Grid.Column="1"
+                Grid.Row="2"
+               x:Name="txtphar"
+                BackgroundColor="Red"
+                CornerRadius="30"
+                FontAttributes="Bold"
+                TextColor="White"
+                ImageSource="medicine.png"
+                
+                />
+            <Button
+                CornerRadius="30"
+                FontAttributes="Bold"
+                TextColor="White"
+                BackgroundColor="Red"
+                Grid.Column="3"
+                Grid.Row="2"
+                x:Name="txtmercado"
+
+                />
+            <Button
+                CornerRadius="30"
+                Grid.Column="1"
+                Grid.Row="4"
+                BackgroundColor="Red"
+                x:Name="txtboulangeri"
+                FontAttributes="Bold"
+                TextColor="White"
+
+                />
+                 <Button
+                     CornerRadius="30"
+                Grid.Column="3"
+                Grid.Row="4"
+                     BackgroundColor="Red"
+               x:Name="txtpoisson"
+                     FontAttributes="Bold"
+                     TextColor="White"
+                />
+            <Button
+                CornerRadius="30"
+                Grid.Column="1"
+                Grid.Row="6"
+                BackgroundColor="Red"
+                x:Name="txtfruits"
+                 FontAttributes="Bold"
+                ImageSource="vegetable.png"
+                     TextColor="White"
+
+                />
+                                 <Button
+                                     CornerRadius="30"
+                Grid.Column="3"
+                                      FontAttributes="Bold"
+                     TextColor="White"
+                Grid.Row="6"
+               x:Name="txtbouch"
+                                     BackgroundColor="Red"
+                />
+            <Button
+                Grid.Column="1"
+                Grid.Row="8"
+                CornerRadius="30"
+
+                ImageSource="gaming.png"
+                x:Name="txtjouetenfant"
+                BackgroundColor="Red"
+                 FontAttributes="Bold"
+                     TextColor="White"
+                />
+
+                                  <Button
+                Grid.Column="3"
+                Grid.Row="8"
+                                       FontAttributes="Bold"
+                     TextColor="White"
+                                      CornerRadius="30"
+                                      BackgroundColor="Red"
+               x:Name="txtlocation"
+                />
+            <Button
+                BackgroundColor="Red"
+                Grid.Column="1"
+                Grid.Row="10"
+                x:Name="txtrestaurant"
+                CornerRadius="30"
+                 FontAttributes="Bold"
+                ImageSource="cutlery.png"
+                     TextColor="White"
+                />
+                       <Button
+                           BackgroundColor="Red"
+                Grid.Column="3"
+                            FontAttributes="Bold"
+                     TextColor="White"
+                Grid.Row="10"
+               x:Name="txthrayfi"
+                           CornerRadius="30"
+                />
+            <Button
+                Grid.Column="1"
+                Grid.Row="12"
+                x:Name="txtspecial"
+                 FontAttributes="Bold"
+                     TextColor="White"
+                BackgroundColor="Red"
+                CornerRadius="30"
+                />
+                      <Button
+                Grid.Column="3"
+                           FontAttributes="Bold"
+                     TextColor="White"
+                Grid.Row="12"
+                x:Name="txtlivre"
+                BackgroundColor="Red"
+                CornerRadius="30"
+                />
+                 <Button
+                Grid.Column="1"
+                Grid.Row="14"
+                x:Name="txtboutique"
+                BackgroundColor="Red"
+                     ImageSource="boutique.png"
+                      FontAttributes="Bold"
+                     TextColor="White"
+                CornerRadius="30"
+                />
+                </Grid>
+                    
+                </StackLayout>
+                      </ScrollView>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

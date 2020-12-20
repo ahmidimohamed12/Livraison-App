@@ -42,7 +42,6 @@ namespace BurgerSpot.Views
             {
                 await Navigation.PushModalAsync(new MyPage_registration());
             };
-
             txtsauvg.GestureRecognizers.Add(nn);
 
         }
@@ -71,7 +70,6 @@ namespace BurgerSpot.Views
                     if (names == ss[i].username && usp == ss[i].passwords)
                     {
                         pp = 1;
-
                         break;
                     }
                 }
@@ -96,16 +94,15 @@ namespace BurgerSpot.Views
             else
             {
                 if (constants.arabe == 1)
-                    DisplayAlert("", "", "ok");
+                 await    DisplayAlert("", "", "ok");
                 if (constants.france == 1)
-                    DisplayAlert("", "", "ok");
+                   await DisplayAlert("", "", "ok");
 
             }
         }
-        private void btn_sign(object sender,EventArgs E)
+        private async void btn_sign(object sender,EventArgs E)
         {
 
         }
-        
     }
 }

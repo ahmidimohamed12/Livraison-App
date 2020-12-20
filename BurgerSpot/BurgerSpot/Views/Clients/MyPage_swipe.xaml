@@ -1,8 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.Clients.MyPage_swipe">
+<ContentPage xmlns:lt="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" BackgroundColor="Red"  xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.Clients.MyPage_swipe">
     <ContentPage.Content>
         <StackLayout>
+            <Frame Margin="0,30,0,0" BackgroundColor="White" VerticalOptions="FillAndExpand"  CornerRadius="30" >
+                <StackLayout>
+                    <Label
+                        Text="Service"
+                        HorizontalOptions="Center"
 
+                        TextColor="Red"
+                        FontSize="25"
+                        x:Name="txtservice"
+                        FontAttributes="bold"
+                        />
+                    <lt:AnimationView
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        WidthRequest="400"
+                        HeightRequest="400"
+                        Animation="livrs.json"
+                        AutoPlay="True"
+                        Loop="True"
+                        IsPlaying="True"
+
+                    />
+                    <Label
+                        Text="Livraison Food"
+                        FontAttributes="Bold"
+                        HorizontalOptions="Center"
+                        x:Name="txtcaros"
+                        FontSize="17"
+                        TextColor="Red"
+                        VerticalOptions="EndAndExpand"
+                        Margin="0,0,0,40"
+                        />
+                </StackLayout>
+               
+            </Frame>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

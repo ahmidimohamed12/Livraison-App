@@ -288,6 +288,7 @@
     <AndroidAsset Include="Assets\Futura.ttf" />
     <AndroidAsset Include="Assets\FuturaHvBt.ttf" />
     <AndroidAsset Include="Assets\FuturaMdBt.ttf" />
+    <AndroidAsset Include="Assets\livrs.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\raw\" />

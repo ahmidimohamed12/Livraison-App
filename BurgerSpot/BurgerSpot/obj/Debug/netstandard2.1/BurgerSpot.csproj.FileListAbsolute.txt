@@ -6,8 +6,6 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Controls/NumericUpDown.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Styles/Colors.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Styles/Fonts.xaml.g.cs
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/BikingCoolView.xaml.g.cs
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/BikingHardView.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Clients/MyPage_listtous.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Clients/MyPage_swipe.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/CustomNavigationPage.xaml.g.cs
@@ -35,3 +33,4 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/BurgerSpot.dll
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/ref/BurgerSpot.dll
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/BurgerSpot.pdb
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/BurgerSpot.csprojAssemblyReference.cache

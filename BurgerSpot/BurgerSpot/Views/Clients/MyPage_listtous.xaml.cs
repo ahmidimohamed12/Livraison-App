@@ -8,12 +8,9 @@ namespace BurgerSpot.Views.Clients
 {
     public partial class MyPage_listtous : ContentPage
     {
-
-       
         public MyPage_listtous()
         {
             InitializeComponent();
-
         }
     }
 }

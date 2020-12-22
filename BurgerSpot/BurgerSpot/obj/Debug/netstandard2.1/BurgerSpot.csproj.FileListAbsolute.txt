@@ -21,7 +21,6 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_menucategories.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_panier.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_pasconnection.xaml.g.cs
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_Product.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_registration.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_sauv.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_start.xaml.g.cs

@@ -20,8 +20,6 @@ namespace BurgerSpot
         {
             InitializeComponent();
             Device.SetFlags(new[] { "Shapes_Experimental", "MediaElement_Experimental" });
-            //            var rootPage = FreshPageModelResolver.ResolvePageModel<FancyTutorialPageModel>();
-            //          var dt = new FreshNavigationContainer(rootPage);
             MainPage = new MyPage_start(); //BurgerSpot.Views.Clients.MyPage_swipe(); //PlantMallView();//MyPage_start(); //MyPage_registration(); //BurgerSpot.Views.Admin.categories.MyPage_addcateg(); //MyPage_start();//MyPage_menucategories();//MyPage_menucategories(); //MyPage_start();//MyPage_menucategories(); //MyPage_logins(); //MyPage_start();
 
         }

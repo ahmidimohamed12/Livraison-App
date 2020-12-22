@@ -12,12 +12,6 @@
                                     FontAttributes="Bold"
                                     TextColor="Black"
                                     />
-                                <Image
-                                    Source="{Binding }"
-
-
-
-                                    />
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

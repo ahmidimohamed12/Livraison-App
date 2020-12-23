@@ -2,7 +2,7 @@
 <ContentPage xmlns:lt="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" BackgroundColor="Red"  xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.Clients.MyPage_swipe">
     <ContentPage.Content>
         <StackLayout>
-            <Frame Margin="0,30,0,0" BackgroundColor="White" VerticalOptions="FillAndExpand"  CornerRadius="30" >
+            <Frame Margin="0,55,0,25" BackgroundColor="White" VerticalOptions="FillAndExpand"  CornerRadius="30" >
                 <StackLayout>
                     <Label
                         Text="Service"
@@ -34,6 +34,17 @@
                         VerticalOptions="EndAndExpand"
                         Margin="0,0,0,40"
                         />
+
+                    <StackLayout>
+                        <Button
+                            Text="Next"
+                            HorizontalOptions="End"
+                            TextColor="Red"
+                            BackgroundColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btn_next"
+                            />
+                    </StackLayout>
                 </StackLayout>
                
             </Frame>

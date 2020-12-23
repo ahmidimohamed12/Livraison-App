@@ -33,3 +33,4 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/ref/BurgerSpot.dll
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/BurgerSpot.pdb
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/BurgerSpot.csprojAssemblyReference.cache
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Clients/btn_swip2.xaml.g.cs

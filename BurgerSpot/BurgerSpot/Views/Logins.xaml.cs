@@ -48,12 +48,9 @@ namespace BurgerSpot.Views
 
         private async void btn_clicklog(object sender,EventArgs e)
         {
-            if (txtpassword.Text.Length >= 2)
-            {
-                if (txtusername.Text.Length >= 6)
-                { 
+            
                 HttpClient client = new HttpClient();
-                // int k = int.Parse(uid);
+
                 client.BaseAddress = new Uri("http://mrsool.1337center.de/api/users1");
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 HttpResponseMessage response = client.GetAsync("http://mrsool.1337center.de/api/users1").Result;
@@ -62,9 +59,7 @@ namespace BurgerSpot.Views
                 List<Client> ss = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Client>>(result);
                 var usp = txtpassword.Text;
                 var names = txtusername.Text;
-
                 int pp = 0;
-
                 for (int i = 0; i < ss.Count; i++)
                 {
                     if (names == ss[i].username && usp == ss[i].passwords)
@@ -75,30 +70,7 @@ namespace BurgerSpot.Views
                 }
                 if (pp == 1)
                     await Navigation.PushModalAsync(new MyPage_menucategories());
-                else
-                {
-                    if (constants.arabe == 1)
-                       await DisplayAlert("ok", "ok", "ok");
-                    if (constants.france == 1)
-                        await DisplayAlert("", "", "ok");
-                }
-                }
-                else
-                {
-                    if (constants.arabe == 1)
-                        await DisplayAlert("","","");
-                    if (constants.france == 1)
-                       await  DisplayAlert("","","");
-                }
-            }
-            else
-            {
-                if (constants.arabe == 1)
-                 await    DisplayAlert("", "", "ok");
-                if (constants.france == 1)
-                   await DisplayAlert("", "", "ok");
-
-            }
+               
         }
         private async void btn_sign(object sender,EventArgs E)
         {

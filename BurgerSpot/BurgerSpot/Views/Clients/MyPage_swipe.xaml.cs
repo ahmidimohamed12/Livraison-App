@@ -10,6 +10,13 @@ namespace BurgerSpot.Views.Clients
         public MyPage_swipe()
         {
             InitializeComponent();
+            
+        }
+
+
+        private async void btn_click(object sende,EventArgs e)
+        {
+            await Navigation.PushModalAsync(new btn_swip2());
         }
     }
 }

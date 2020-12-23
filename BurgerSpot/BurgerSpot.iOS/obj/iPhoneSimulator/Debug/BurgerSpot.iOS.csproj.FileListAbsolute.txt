@@ -101,40 +101,40 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/BurgerSpot.pdb
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/ibtool/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/actool/_PartialAppManifest.items
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/actool/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/coremlc/_PartialAppManifest.items
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/coremlc/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/bbq.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/france.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/morocco.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/add.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/bread.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/fish.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/fruit.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/vegetable.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/javier.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/jennifer.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/miguel.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/nofv.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/samantha.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/sebastian.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/angelica.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/cart.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/chicken.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/classic.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/left.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/meat.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/right.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/search.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/shark.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/two.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/user.png
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.3/optimized/
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csprojAssemblyReference.cache
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csproj.CoreCompileInputs.cache
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.csproj.CopyComplete
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.exe
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/BurgerSpot.iOS.pdb
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/ibtool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_PartialAppManifest.items
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_PartialAppManifest.items
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/bbq.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/france.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/morocco.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/add.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/bread.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/fish.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/fruit.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/vegetable.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/javier.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/jennifer.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/miguel.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/nofv.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/samantha.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/sebastian.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/angelica.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/cart.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/chicken.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/classic.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/left.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/meat.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/right.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/search.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/shark.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/two.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/user.png
+/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/

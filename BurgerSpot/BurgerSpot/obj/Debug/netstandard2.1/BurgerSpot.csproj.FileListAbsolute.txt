@@ -9,13 +9,11 @@
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Clients/MyPage_listtous.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Clients/MyPage_swipe.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/CustomNavigationPage.xaml.g.cs
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/DetailsPage.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/Logins.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MainPage.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_btntest.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_Language.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_listshopbindigs.xaml.g.cs
-/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_ls.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_lsftcollection.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_maps.xaml.g.cs
 /Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/obj/Debug/netstandard2.1/Views/MyPage_menucategories.xaml.g.cs

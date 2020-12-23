@@ -20,7 +20,7 @@ namespace BurgerSpot
         {
             InitializeComponent();
             Device.SetFlags(new[] { "Shapes_Experimental", "MediaElement_Experimental" });
-            MainPage = new BurgerSpot.Views.Clients.MyPage_swipe(); //PlantMallView();//MyPage_start(); //MyPage_registration(); //BurgerSpot.Views.Admin.categories.MyPage_addcateg(); //MyPage_start();//MyPage_menucategories();//MyPage_menucategories(); //MyPage_start();//MyPage_menucategories(); //MyPage_logins(); //MyPage_start();
+            MainPage = new MyPage_menucategories();//BurgerSpot.Views.Clients.MyPage_swipe(); //PlantMallView();//MyPage_start(); //MyPage_registration(); //BurgerSpot.Views.Admin.categories.MyPage_addcateg(); //MyPage_start();//MyPage_menucategories();//MyPage_menucategories(); //MyPage_start();//MyPage_menucategories(); //MyPage_logins(); //MyPage_start();
 
         }
 

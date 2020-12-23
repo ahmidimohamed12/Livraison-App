@@ -10,7 +10,7 @@ namespace BurgerSpot.Views.Clients
         public MyPage_swipe()
         {
             InitializeComponent();
-            
+            btn_next.Clicked += btn_click;
         }
 
 
@@ -20,3 +20,4 @@ namespace BurgerSpot.Views.Clients
         }
     }
 }
+  

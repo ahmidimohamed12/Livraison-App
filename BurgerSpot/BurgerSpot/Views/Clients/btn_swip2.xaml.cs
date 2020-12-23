@@ -10,6 +10,12 @@ namespace BurgerSpot.Views.Clients
         public btn_swip2()
         {
             InitializeComponent();
+            btn_back.Clicked += btnback;
+        }
+
+        private async void btnback(object sender,EventArgs e)
+        {
+            await Navigation.PopModalAsync();
         }
     }
 }

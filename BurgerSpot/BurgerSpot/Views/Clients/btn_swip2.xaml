@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns:lt="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.Clients.btn_swip2">
+<ContentPage BackgroundColor="Red" xmlns:lt="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.Clients.btn_swip2">
     <ContentPage.Content>
          <StackLayout>
             <Frame Margin="0,55,0,25" BackgroundColor="White" VerticalOptions="FillAndExpand"  CornerRadius="30" >
@@ -35,10 +35,18 @@
                         Margin="0,0,0,40"
                         />
 
-                    <StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Button
+                            Text="Back"
+                            HorizontalOptions="Start"
+                            TextColor="Red"
+                            BackgroundColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btn_back"
+                            />
                         <Button
                             Text="Next"
-                            HorizontalOptions="End"
+                            HorizontalOptions="EndAndExpand"
                             TextColor="Red"
                             BackgroundColor="White"
                             FontAttributes="Bold"

@@ -69,12 +69,12 @@ namespace BurgerSpot.Views
                     }
                 }
                 if (pp == 1)
-                    await Navigation.PushModalAsync(new MyPage_menucategories());
+                    await Navigation.PushModalAsync(new BurgerSpot.Views.Clients.MyPage_swipe());
                
         }
         private async void btn_sign(object sender,EventArgs E)
         {
-
+           // await Navigation.PushModalAsync(new MyPage_registration());
         }
     }
 }

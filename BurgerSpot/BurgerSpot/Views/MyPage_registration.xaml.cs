@@ -18,7 +18,6 @@ namespace BurgerSpot.Views
         {
             InitializeComponent();
 
-
             if (constants.arabe == 1)
             {
                 txtlo.Text = "تسجيل";
@@ -42,9 +41,6 @@ namespace BurgerSpot.Views
             var n = new TapGestureRecognizer();
 
            
-
-            
-
 
             n.Tapped += btn_click;
 
@@ -73,7 +69,12 @@ namespace BurgerSpot.Views
                     HttpContent httpContent = new StringContent(Json);
                     httpContent.Headers.ContentType = new MediaTypeHeaderValue("application/Json");
                     await httpClient.PostAsync("http://mrsool.1337center.de/api/users1/", httpContent);
-                    await DisplayAlert("Added", "Your Data has been added", "OK");
+                    if (constants.arabe == 1)
+                        await DisplayAlert("Added", "Your Data has been added", "OK");
+                    if (constants.france == 1)
+                    {
+                        await DisplayAlert("dmdsd","kdkdkd","cok");
+                    }
                 }
             }
         }

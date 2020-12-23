@@ -8,7 +8,10 @@
                        <ViewCell>
                            <StackLayout>
                                <Image Source="{Binding im}" HorizontalOptions="StartAndExpand" />
-                               <Label Text="{Binding}"  />
+                               <Label Text="{Binding}"
+                                      FontAttributes="Bold"
+                                      TextColor="Red"
+                                      />
                                <Image/>
                            </StackLayout>
                        </ViewCell>

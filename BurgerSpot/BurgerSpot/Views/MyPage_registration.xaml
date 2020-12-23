@@ -13,23 +13,23 @@
                   Data="M30.6,172.838V650.665L320.465,404.581Z" Opacity="0.8"/>
             <Path Stroke="#00C2FF" StrokeThickness="1" Aspect="Uniform" HorizontalOptions="Center"
                   Data="M30.6,172.838V605.512L293.073,382.682Z" />
-            <StackLayout Spacing="20" VerticalOptions="CenterAndExpand" Margin="50,0">
+            <StackLayout Spacing="25" VerticalOptions="CenterAndExpand" Margin="50,0">
                 <Label  x:Name="txtlo" Text="LOG IN" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
                 <StackLayout Spacing="10">
                     <Grid WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
-                        <Entry x:Name="txtemail"   FontSize="12"/>
+                        <Entry Margin="-25,0,0,0"  x:Name="txtemail"   FontSize="12"/>
                     </Grid>
-                     <Grid WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
-                        <Entry x:Name="txtusername"   FontSize="12"/>
+                     <Grid  WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
+                        <Entry Margin="-25,0,0,0" x:Name="txtusername"   FontSize="12"/>
                     </Grid>
                     <Grid WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
-                        <Entry x:Name="txtpassword" IsPassword="True" Placeholder="Password" FontSize="12"/>
+                        <Entry Margin="-25,0,0,0" x:Name="txtpassword" IsPassword="True" Placeholder="Password" FontSize="12"/>
                     </Grid>
                      <Grid WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
-                        <Entry x:Name="txtaddress" IsPassword="True" Placeholder="Password" FontSize="12"/>
+                        <Entry  Margin="-25,0,0,0" x:Name="txtaddress" IsPassword="True" Placeholder="Password" FontSize="12"/>
                     </Grid>
                      <Grid WidthRequest="160" Padding="10,0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
-                        <Entry x:Name="txt" Keyboard="Telephone" Placeholder="Password" FontSize="12"/>
+                        <Entry Margin="-25,0,0,0" x:Name="txt" Keyboard="Telephone" Placeholder="Password" FontSize="12"/>
                     </Grid>
                  
                 </StackLayout>

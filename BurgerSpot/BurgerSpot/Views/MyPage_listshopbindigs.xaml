@@ -1,22 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_listshopbindigs">
+<ContentPage BackgroundColor="Red" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_listshopbindigs">
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="lst" HasUnevenRows="True" >
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <StackLayout>
-                                <Label
-                                    Text="{Binding nom}"
-                                    FontAttributes="Bold"
-                                    TextColor="Black"
-                                    />
-                            </StackLayout>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>     
-            </ListView>
+            <StackLayout Orientation="Horizontal">
+                <Image
+                    x:Name="panier_btn"
+                    WidthRequest="40"
+                    HeightRequest="30"
+
+                    />
+            </StackLayout>
+
+            <Frame CornerRadius="30" Margin="0,50,0,0">
+                <StackLayout BackgroundColor="White" >
+                    <CollectionView  x:Name="lst"  >
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Image
+                                            Source="{Binding }"
+                                            />
+                                        <Label
+                                            Text="{Binding nom}"
+                                            FontAttributes="Bold"
+                                            TextColor="Black"
+                                            />
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>     
+                    </CollectionView>
+                </StackLayout>
+            </Frame>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

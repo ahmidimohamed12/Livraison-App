@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor="Red" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BurgerSpot.Views.MyPage_produit_once">
+    <ContentPage.Content>
+       
+            <Frame CornerRadius="50" Margin="0,50,0,0">
+ <StackLayout  BackgroundColor="White">
+     <StackLayout Orientation="Horizontal">
+         <Image
+                x:Name="impr"
+                WidthRequest="120"
+                HeightRequest="100"
+                />
+            <Label
+                x:Name="txt_produit"
+                Text="txt_produit"
+                TextColor="Black"
+                FontAttributes="Bold"
+                />
+     </StackLayout>
+
+
+            <Label
+                x:Name="txt_prix"
+                FontAttributes="Bold"
+                Text="txt_prix"
+                TextColor="Black"
+
+                />
+
+            <Label/>
+
+            <Button
+                Text="Push"
+                x:Name="btn_puch_panier"
+                VerticalOptions="EndAndExpand"
+                BackgroundColor="Red"
+                TextColor="White"
+                FontAttributes="Bold"
+                Margin="0,0,0,20"
+                CornerRadius="10"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                />
+        </StackLayout>
+            </Frame>
+            
+    </ContentPage.Content>
+</ContentPage>

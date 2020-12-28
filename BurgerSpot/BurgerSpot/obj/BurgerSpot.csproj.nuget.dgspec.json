@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[1.0.2, )"
             },
+            "Plugin.MaterialDesignControls": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
             "Plugins.Forms.ButtonCircle": {
               "target": "Package",
               "version": "[2.0.3, )"
@@ -89,6 +93,10 @@
             "Xam.Plugin.ExternalMaps": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "Xam.Shell.Badge": {
+              "target": "Package",
+              "version": "[1.0.11, )"
             },
             "Xamanimation": {
               "target": "Package",

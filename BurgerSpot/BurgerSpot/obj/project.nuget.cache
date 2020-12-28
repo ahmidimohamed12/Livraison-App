@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2jy1MgculNNVqscXqg/9VaMlc0CKZ+VcaZyquLIIyt6Aa6kOlZwgsTwuw9k5t/Yim2408cccpIIFaEAkQ36Pkg==",
+  "dgSpecHash": "Q3hw317dzBKzzM0V+fxGaTTiBC6UoAf4vYLx54nsO6Lp8x5nYv0g15tcD40kzd740dQOK/t0DSZQWWz2uGrl5w==",
   "success": true,
   "projectFilePath": "/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/BurgerSpot.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "/Users/ahmidimohamed/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/pclstorage/1.0.2/pclstorage.1.0.2.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.materialdesigncontrols/1.7.0/plugin.materialdesigncontrols.1.7.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/plugins.forms.buttoncircle/2.0.3/plugins.forms.buttoncircle.2.0.3.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/sharpnado.shadows/1.0.2/sharpnado.shadows.1.0.2.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/skiasharp/1.68.0/skiasharp.1.68.0.nupkg.sha512",
@@ -46,6 +47,7 @@
     "/Users/ahmidimohamed/.nuget/packages/system.valuetuple/4.4.0/system.valuetuple.4.4.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xam.plugin.connectivity/3.2.0/xam.plugin.connectivity.3.2.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xam.plugin.externalmaps/2.0.0/xam.plugin.externalmaps.2.0.0.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/xam.shell.badge/1.0.11/xam.shell.badge.1.0.11.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xamanimation/1.1.0/xamanimation.1.1.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xamarin.essentials/1.1.0/xamarin.essentials.1.1.0.nupkg.sha512",
     "/Users/ahmidimohamed/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512",

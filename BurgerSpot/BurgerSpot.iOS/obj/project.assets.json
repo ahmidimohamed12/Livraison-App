@@ -126,6 +126,20 @@
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.dll": {}
         }
       },
+      "Plugin.MaterialDesignControls/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.4.0.991864"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
+        }
+      },
       "Plugins.Forms.ButtonCircle/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -382,6 +396,20 @@
           "lib/Xamarin.iOS10/Plugin.ExternalMaps.dll": {}
         }
       },
+      "Xam.Shell.Badge/1.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        }
+      },
       "Xamanimation/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -596,11 +624,13 @@
           "Microcharts.Forms": "0.6.1",
           "Newtonsoft.Json": "12.0.3",
           "PCLStorage": "1.0.2",
+          "Plugin.MaterialDesignControls": "1.7.0",
           "Plugins.Forms.ButtonCircle": "2.0.3",
           "Sharpnado.Shadows": "1.0.2",
           "SkiaSharp.Views": "1.68.0",
           "Xam.Plugin.Connectivity": "3.2.0",
           "Xam.Plugin.ExternalMaps": "2.0.0",
+          "Xam.Shell.Badge": "1.0.11",
           "Xamanimation": "1.1.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.FFImageLoading": "2.4.11.982",
@@ -741,6 +771,20 @@
         "runtime": {
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.Abstractions.dll": {},
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.dll": {}
+        }
+      },
+      "Plugin.MaterialDesignControls/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.4.0.991864"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
         }
       },
       "Plugins.Forms.ButtonCircle/2.0.3": {
@@ -977,6 +1021,20 @@
           "lib/Xamarin.iOS10/Plugin.ExternalMaps.dll": {}
         }
       },
+      "Xam.Shell.Badge/1.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        }
+      },
       "Xamanimation/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1191,11 +1249,13 @@
           "Microcharts.Forms": "0.6.1",
           "Newtonsoft.Json": "12.0.3",
           "PCLStorage": "1.0.2",
+          "Plugin.MaterialDesignControls": "1.7.0",
           "Plugins.Forms.ButtonCircle": "2.0.3",
           "Sharpnado.Shadows": "1.0.2",
           "SkiaSharp.Views": "1.68.0",
           "Xam.Plugin.Connectivity": "3.2.0",
           "Xam.Plugin.ExternalMaps": "2.0.0",
+          "Xam.Shell.Badge": "1.0.11",
           "Xamanimation": "1.1.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.FFImageLoading": "2.4.11.982",
@@ -1336,6 +1396,20 @@
         "runtime": {
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.Abstractions.dll": {},
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.dll": {}
+        }
+      },
+      "Plugin.MaterialDesignControls/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.4.0.991864"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
         }
       },
       "Plugins.Forms.ButtonCircle/2.0.3": {
@@ -1575,6 +1649,20 @@
           "lib/Xamarin.iOS10/Plugin.ExternalMaps.dll": {}
         }
       },
+      "Xam.Shell.Badge/1.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        }
+      },
       "Xamanimation/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1789,11 +1877,13 @@
           "Microcharts.Forms": "0.6.1",
           "Newtonsoft.Json": "12.0.3",
           "PCLStorage": "1.0.2",
+          "Plugin.MaterialDesignControls": "1.7.0",
           "Plugins.Forms.ButtonCircle": "2.0.3",
           "Sharpnado.Shadows": "1.0.2",
           "SkiaSharp.Views": "1.68.0",
           "Xam.Plugin.Connectivity": "3.2.0",
           "Xam.Plugin.ExternalMaps": "2.0.0",
+          "Xam.Shell.Badge": "1.0.11",
           "Xamanimation": "1.1.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.FFImageLoading": "2.4.11.982",
@@ -1934,6 +2024,20 @@
         "runtime": {
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.Abstractions.dll": {},
           "lib/portable-Xamarin.iOS+Xamarin.Mac/PCLStorage.dll": {}
+        }
+      },
+      "Plugin.MaterialDesignControls/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.4.0.991864"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll": {},
+          "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll": {}
         }
       },
       "Plugins.Forms.ButtonCircle/2.0.3": {
@@ -2173,6 +2277,20 @@
           "lib/Xamarin.iOS10/Plugin.ExternalMaps.dll": {}
         }
       },
+      "Xam.Shell.Badge/1.0.11": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.0.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS/Xam.Shell.Badge.dll": {},
+          "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll": {}
+        }
+      },
       "Xamanimation/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -2387,11 +2505,13 @@
           "Microcharts.Forms": "0.6.1",
           "Newtonsoft.Json": "12.0.3",
           "PCLStorage": "1.0.2",
+          "Plugin.MaterialDesignControls": "1.7.0",
           "Plugins.Forms.ButtonCircle": "2.0.3",
           "Sharpnado.Shadows": "1.0.2",
           "SkiaSharp.Views": "1.68.0",
           "Xam.Plugin.Connectivity": "3.2.0",
           "Xam.Plugin.ExternalMaps": "2.0.0",
+          "Xam.Shell.Badge": "1.0.11",
           "Xamanimation": "1.1.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.FFImageLoading": "2.4.11.982",
@@ -2637,6 +2757,28 @@
         "lib/wp8/PCLStorage.xml",
         "pclstorage.1.0.2.nupkg.sha512",
         "pclstorage.nuspec"
+      ]
+    },
+    "Plugin.MaterialDesignControls/1.7.0": {
+      "sha512": "zgR+TzUmPNbhaTfRuienDLnc6JKzMvNhuoMnulPquApem7bdU8PhkAsZsV/LdnSaYcrj+tufsQ3xG926dhLnlg==",
+      "type": "package",
+      "path": "plugin.materialdesigncontrols/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid10/Plugin.MaterialDesignControls.Android.dll",
+        "lib/MonoAndroid10/Plugin.MaterialDesignControls.Android.xml",
+        "lib/MonoAndroid10/Plugin.MaterialDesignControls.dll",
+        "lib/MonoAndroid10/Plugin.MaterialDesignControls.xml",
+        "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.dll",
+        "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.dll",
+        "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.iOS.xml",
+        "lib/Xamarin.iOS10/Plugin.MaterialDesignControls.xml",
+        "lib/netstandard1.0/Plugin.MaterialDesignControls.dll",
+        "lib/netstandard1.0/Plugin.MaterialDesignControls.xml",
+        "plugin.materialdesigncontrols.1.7.0.nupkg.sha512",
+        "plugin.materialdesigncontrols.nuspec"
       ]
     },
     "Plugins.Forms.ButtonCircle/2.0.3": {
@@ -3388,6 +3530,32 @@
         "xam.plugin.externalmaps.nuspec"
       ]
     },
+    "Xam.Shell.Badge/1.0.11": {
+      "sha512": "2iUdveasE401pnXSDhue9IvNg3crYx7GLS2ErxXLl7bPW+scGhvAl+er3UQBT6ssnT5LH1Pv87hAOkZLU5jaqg==",
+      "type": "package",
+      "path": "xam.shell.badge/1.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/MonoAndroid10/Xam.Shell.Badge.Android.dll",
+        "lib/MonoAndroid10/Xam.Shell.Badge.Android.xml",
+        "lib/MonoAndroid10/Xam.Shell.Badge.dll",
+        "lib/MonoAndroid10/Xam.Shell.Badge.xml",
+        "lib/MonoTouch10/Xam.Shell.Badge.dll",
+        "lib/MonoTouch10/Xam.Shell.Badge.iOS.dll",
+        "lib/MonoTouch10/Xam.Shell.Badge.iOS.xml",
+        "lib/MonoTouch10/Xam.Shell.Badge.xml",
+        "lib/Xamarin.iOS/Xam.Shell.Badge.dll",
+        "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.dll",
+        "lib/Xamarin.iOS/Xam.Shell.Badge.iOS.xml",
+        "lib/Xamarin.iOS/Xam.Shell.Badge.xml",
+        "lib/netstandard2.0/Xam.Shell.Badge.dll",
+        "lib/netstandard2.0/Xam.Shell.Badge.xml",
+        "xam.shell.badge.1.0.11.nupkg.sha512",
+        "xam.shell.badge.nuspec"
+      ]
+    },
     "Xamanimation/1.1.0": {
       "sha512": "RcUXT9XQOFBU0imnr3WVtH6MNtNELvm2FHb/Pu5YG9OGacGggP6ariiJlh+q8BiWBw1T8RkQkP/q8jpG2DpzOg==",
       "type": "package",
@@ -3941,6 +4109,7 @@
       "Microcharts.Forms >= 0.6.1",
       "Newtonsoft.Json >= 12.0.3",
       "PCLStorage >= 1.0.2",
+      "Plugin.MaterialDesignControls >= 1.7.0",
       "Plugins.Forms.ButtonCircle >= 2.0.3",
       "Sharpnado.Shadows >= 1.0.2",
       "SkiaSharp.Views >= 1.68.0",
@@ -4021,6 +4190,10 @@
           "PCLStorage": {
             "target": "Package",
             "version": "[1.0.2, )"
+          },
+          "Plugin.MaterialDesignControls": {
+            "target": "Package",
+            "version": "[1.7.0, )"
           },
           "Plugins.Forms.ButtonCircle": {
             "target": "Package",

@@ -68,6 +68,10 @@
               "target": "Package",
               "version": "[1.0.2, )"
             },
+            "Plugin.MaterialDesignControls": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
             "Plugins.Forms.ButtonCircle": {
               "target": "Package",
               "version": "[2.0.3, )"
@@ -83,6 +87,22 @@
             "Xam.Plugin.Connectivity": {
               "target": "Package",
               "version": "[3.2.0, )"
+            },
+            "Xam.Shell.Badge": {
+              "target": "Package",
+              "version": "[1.0.11, )"
+            },
+            "Xamarin.AndroidX.Browser": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.V4": {
+              "target": "Package",
+              "version": "[1.0.0.6, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.LiveData": {
+              "target": "Package",
+              "version": "[2.2.0.4, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -182,6 +202,10 @@
               "target": "Package",
               "version": "[1.0.2, )"
             },
+            "Plugin.MaterialDesignControls": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
             "Plugins.Forms.ButtonCircle": {
               "target": "Package",
               "version": "[2.0.3, )"
@@ -201,6 +225,10 @@
             "Xam.Plugin.ExternalMaps": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "Xam.Shell.Badge": {
+              "target": "Package",
+              "version": "[1.0.11, )"
             },
             "Xamanimation": {
               "target": "Package",

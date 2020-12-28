@@ -42,6 +42,8 @@
     <PackageReference Include="PCLStorage" Version="1.0.2" />
     <PackageReference Include="Xamanimation" Version="1.1.0" />
     <PackageReference Include="Xamarin.FFImageLoading.Transformations" Version="2.4.11.982" />
+    <PackageReference Include="Xam.Shell.Badge" Version="1.0.11" />
+    <PackageReference Include="Plugin.MaterialDesignControls" Version="1.7.0" />
   </ItemGroup>
 
   <ItemGroup>

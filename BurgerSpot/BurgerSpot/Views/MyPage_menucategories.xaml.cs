@@ -19,16 +19,10 @@ namespace BurgerSpot.Views
         {
             InitializeComponent();
 
-             
-
-
-
-
 
             if (constants.arabe == 1)
             {
                 txtphar.Text = "الأدوية";
-                
                 txtmercado.Text = "سوق ممتاز";
                 txtboulangeri.Text = "مخبزة";
                 txtpoisson.Text = "بائع السمك";
@@ -62,7 +56,7 @@ namespace BurgerSpot.Views
 
             txtphar.Clicked += btn_click;
 
-            //btn_clickguest(txtphar,btn_click);
+            
         }
 
 
@@ -71,7 +65,7 @@ namespace BurgerSpot.Views
             var n = new TapGestureRecognizer();
             n.Tapped += e;
             btn.GestureRecognizers.Add(n);
-           // return n;
+
 
 
         }

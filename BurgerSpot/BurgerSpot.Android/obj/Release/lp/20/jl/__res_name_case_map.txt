@@ -1,0 +1,4 @@
+layout/notification_badge.axml;layout/notification_badge.xml
+drawable/custom_circle_shape.xml;drawable/custom_circle_shape.xml
+drawable/custom_rectangle_shape.xml;drawable/custom_rectangle_shape.xml
+values/colors.xml;values/colors.xml

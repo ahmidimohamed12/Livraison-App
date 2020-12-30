@@ -17,5 +17,10 @@ namespace BurgerSpot.Views.Clients
         {
             await Navigation.PopModalAsync();
         }
+
+        private async void btn_next_2(object sender,EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MyPage_menucategories());
+        }
     }
 }

@@ -1,61 +1,25 @@
 ﻿<Properties StartupConfiguration="{12CF91FE-BFCA-4BB8-92E7-3873AAF6AAC0}|Default" HasHotReloadOverlayBeenDismissed="True">
   <MonoDevelop.Ide.ItemProperties.BurgerSpot.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEC9C31B-CBA5-481F-9577-B60916C57E83" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerSpot/BurgerSpot/Views/MyPage_produit_once.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BurgerSpot/BurgerSpot/Views/Clients/btn_swip2.xaml.cs">
     <Files>
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_panier.xaml" Line="1" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/MyPage_swipe.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/App.xaml.cs" />
-      <File FileName="BurgerSpot/BurgerSpot.Android/Resources/values/styles.xml" />
-      <File FileName="BurgerSpot/BurgerSpot.Android/Resources/values/colors.xml" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/MyPage_listtous.xaml.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/MyPage_listtous.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Logins.xaml.cs" Line="75" Column="63" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_panier.xaml.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_menucategories.xaml.cs" Line="31" Column="17" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml" Line="22" Column="63" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml.cs" Line="24" Column="45" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MainPage.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/Model/Client.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/btn_swip2.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/btn_swip2.xaml.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/MyPage_swipe.xaml.cs" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_start.xaml" Line="12" Column="39" />
       <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_menucategories.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_pasconnection.xaml" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/IAnimatedView.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_registration.xaml" Line="18" Column="34" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_registration.xaml.cs" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/Logins.xaml" Line="33" Column="82" />
-      <File FileName="BurgerSpot/BurgerSpot/Model/Commands.cs" Line="14" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Model/Produits.cs" Line="22" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_produit_once.xaml" Line="1" Column="1" />
-      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_produit_once.xaml.cs" Line="12" Column="35" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_menucategories.xaml.cs" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml.cs" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/Logins.xaml.cs" />
+      <File FileName="BurgerSpot/BurgerSpot/Model/Produits.cs" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/btn_swip2.xaml" />
+      <File FileName="BurgerSpot/BurgerSpot/Views/Clients/btn_swip2.xaml.cs" Line="16" Column="62" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BurgerSpot" expanded="True">
-            <Node name="BurgerSpot" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="MyPage_produit_once.xaml" expanded="True">
-                  <Node name="MyPage_produit_once.xaml.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="BurgerSpot.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.BurgerSpot.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ahmidimohamed/Downloads/ahmidi_app_livr/BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml.cs" relfile="BurgerSpot/BurgerSpot/Views/MyPage_listshopbindigs.xaml.cs" line="33" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

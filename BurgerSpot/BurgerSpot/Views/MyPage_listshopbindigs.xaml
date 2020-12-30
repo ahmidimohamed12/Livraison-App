@@ -13,7 +13,7 @@
 
             <Frame CornerRadius="30" Margin="0,50,0,0">
                 <StackLayout BackgroundColor="White" >
-                    <CollectionView  x:Name="lst"  >
+                    <CollectionView   x:Name="lst"  >
                         <CollectionView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
@@ -32,6 +32,25 @@
                         </CollectionView.ItemTemplate>     
                     </CollectionView>
                 </StackLayout>
+            </Frame>
+            <Frame>
+                <CollectionView  >
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Image  />
+                                    <Label
+                                        Text="{Binding }"
+                                        FontAttributes="Bold"
+                                        TextColor="Black"
+
+                                        />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
             </Frame>
         </StackLayout>
     </ContentPage.Content>

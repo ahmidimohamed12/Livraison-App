@@ -20,8 +20,8 @@ namespace BurgerSpot
         {
             InitializeComponent();
             Device.SetFlags(new[] { "Shapes_Experimental", "MediaElement_Experimental" });
-            MainPage = new MyPage_start(); //MyPage_pasconnection(); //DetailsPage();//BurgerSpot.Views.Clients.MyPage_swipe(); //PlantMallView();//MyPage_start(); //MyPage_registration(); //BurgerSpot.Views.Admin.categories.MyPage_addcateg(); //MyPage_start();//MyPage_menucategories();//MyPage_menucategories(); //MyPage_start();//MyPage_menucategories(); //MyPage_logins(); //MyPage_start();
-
+            MainPage = new MyPage_listshopbindigs(); //MyPage_start(); //MyPage_pasconnection(); //DetailsPage();//BurgerSpot.Views.Clients.MyPage_swipe(); //PlantMallView();//MyPage_start(); //MyPage_registration(); //BurgerSpot.Views.Admin.categories.MyPage_addcateg(); //MyPage_start();//MyPage_menucategories();//MyPage_menucategories(); //MyPage_start();//MyPage_menucategories(); //MyPage_logins(); //MyPage_start();
+            
         }
 
         protected override void OnStart()

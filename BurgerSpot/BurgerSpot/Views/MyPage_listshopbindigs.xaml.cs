@@ -15,22 +15,22 @@ namespace BurgerSpot.Views
         public MyPage_listshopbindigs()
         {
             InitializeComponent();
-            
-           
-            
-        }
-        protected async override void OnAppearing()
-        {
-            base.OnAppearing();
 
             HttpClient client = new HttpClient();
 
             client.BaseAddress = new Uri("http://mrsool.1337center.de/api/produits1");
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-            HttpResponseMessage response = client.GetAsync("http://mrsool.1337center.de/api/users1").Result;
+            HttpResponseMessage response = client.GetAsync("http://mrsool.1337center.de/api/produits1").Result;
             var result = response.Content.ReadAsStringAsync().Result;
             //database
             List<Produits> ss = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Produits>>(result);
+
+        }
+        protected async override void OnAppearing()
+        {
+            base.OnAppearing();
+
+           
 
             //your code here;
             //   RemplireData rm = new RemplireData();

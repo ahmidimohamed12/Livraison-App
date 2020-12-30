@@ -11,6 +11,8 @@ namespace BurgerSpot.Views.Clients
         {
             InitializeComponent();
             btn_back.Clicked += btnback;
+
+            btn_next.Clicked += btn_next_2;
         }
 
         private async void btnback(object sender,EventArgs e)

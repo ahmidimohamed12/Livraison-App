@@ -13,44 +13,43 @@
 
             <Frame CornerRadius="30" Margin="0,50,0,0">
                 <StackLayout BackgroundColor="White" >
-                    <CollectionView   x:Name="lst"  >
-                        <CollectionView.ItemTemplate>
-                            <DataTemplate>
-                                <ViewCell>
-                                    <StackLayout Orientation="Horizontal">
-                                        <Image
-                                            Source="{Binding }"
-                                            />
-                                        <Label
-                                            Text="{Binding nom}"
-                                            FontAttributes="Bold"
-                                            TextColor="Black"
-                                            />
-                                    </StackLayout>
-                                </ViewCell>
-                            </DataTemplate>
-                        </CollectionView.ItemTemplate>     
-                    </CollectionView>
-                </StackLayout>
-            </Frame>
-            <Frame>
-                <CollectionView  >
-                    <CollectionView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <StackLayout>
-                                    <Image  />
-                                    <Label
-                                        Text="{Binding }"
-                                        FontAttributes="Bold"
-                                        TextColor="Black"
+              <CollectionView
+                  
+                  x:Name="ls"
+                ItemsLayout="HorizontalList">
+    <CollectionView.ItemTemplate>
+        <DataTemplate>
+            <Grid Padding="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="55" />
+                    <RowDefinition Height="55" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120" />
+                    <ColumnDefinition Width="140" />
+                </Grid.ColumnDefinitions>
+                <Image Grid.RowSpan="2"
+                       Source="{Binding img1}"
+                       Aspect="AspectFill"
+                       HeightRequest="60"
+                       WidthRequest="60" />
+                <Label Grid.Column="1"
+                       Text="{Binding nom}"
+                       FontAttributes="Bold"
+                       LineBreakMode="TailTruncation" />
+                <Label Grid.Row="1"
+                       Grid.Column="1"
 
-                                        />
-                                </StackLayout>
-                            </ViewCell>
-                        </DataTemplate>
-                    </CollectionView.ItemTemplate>
-                </CollectionView>
+                       Text="{Binding prix}"
+                       LineBreakMode="TailTruncation"
+                       FontAttributes="Italic"
+                       VerticalOptions="End" />
+            </Grid>
+        </DataTemplate>
+    </CollectionView.ItemTemplate>
+</CollectionView>
+
+                </StackLayout>
             </Frame>
         </StackLayout>
     </ContentPage.Content>

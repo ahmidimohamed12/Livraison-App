@@ -22,6 +22,7 @@ namespace BurgerSpot.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             //  Xamarin.Forms.Forms.SetFlags("Expander_Experimental");
             //     Forms.SetFlags("Expander_Experimental");
             Forms.SetFlags("CollectionView_Experimental");
